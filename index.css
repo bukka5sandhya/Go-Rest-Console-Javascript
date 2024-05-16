@@ -1,0 +1,23 @@
+.bg-container{
+    background-color: #52606d;
+    background-size: cover;
+    height:100vh;
+}
+.console-contianer{
+    background-color: #ffff;
+    border-radius:35px;
+   
+
+}
+.heading{
+    color: #1f2933;
+    font-size:30px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    
+}
+.error-message{
+    color:#dc3545;
+    font-family: 'Roboto';
+    font-size:15px;
+}
